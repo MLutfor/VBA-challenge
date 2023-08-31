@@ -1,1 +1,3 @@
 # VBA-challenge
+The VBA script for this file is based on the codes provided by the in-class assignments of the U of T Data Analysis bootcamp.  ChaGPT was also used in the assistance of debugging and code clean up.  
+The purpose of this file is to loop through all the stocks for one year and output information for each ticker symbol.  This information included the "yearly change", :the percentage change", and "the total volume of the stock".  This summary of information is then used to provide the "greatest % increase", "greatest % decrease", and "greatest total volume".  Finally, conditional formatting is utilized to make it user friendly.
